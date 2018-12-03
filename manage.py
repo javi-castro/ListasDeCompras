@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 #!/usr/bin/env python ---
 #Hola me llamo Felipe Vera
+=======
+#!/usr/bin/env python
+>>>>>>> 56430b9eb8b05f339ccf7aa41424f3b912b7c2c1
 import os
 import sys
 
