@@ -1,8 +1,11 @@
 #Hola me llamo Felipe Vera
 #Hola mundo
+<<<<<<< HEAD
 #Cambio Prueba
 #Prueba final a trabajar
 #Prueba Final 2
+=======
+>>>>>>> PRUEBA CL
 import os
 import sys
 
