@@ -1,5 +1,4 @@
-#!/usr/bin/env python ---
-#Hola
+#Hola me llamo Felipe Veraa
 import os
 import sys
 
