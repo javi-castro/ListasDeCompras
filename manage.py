@@ -1,7 +1,4 @@
-#Hola me llamo Felipe Vera
-#Hola mundo
-#Cambio Prueba
-#Prueba final a trabajar
+#ultima prueba 
 import os
 import sys
 
